@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <rect width="160" height="160" fill="#FFFFFF"/>
+  <circle cx="80" cy="80" r="70" fill="#0B1F3B"/>
+  <path d="M45 105C50 70 70 45 100 35" stroke="#1AA6C8" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <circle cx="102" cy="32" r="7" fill="#1AA6C8"/>
+  <text x="80" y="110" font-family="Arial, sans-serif" font-size="32" text-anchor="middle" fill="#FFFFFF">ESA</text>
+  <text x="80" y="134" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#FFFFFF">Hub Africa</text>
+</svg>
